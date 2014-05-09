@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssignmentOperatorOverload", "AssignmentOperatorOverload\AssignmentOperatorOverload.vcxproj", "{EE96A565-2317-4002-9523-BC9784439320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE96A565-2317-4002-9523-BC9784439320}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE96A565-2317-4002-9523-BC9784439320}.Debug|Win32.Build.0 = Debug|Win32
+		{EE96A565-2317-4002-9523-BC9784439320}.Release|Win32.ActiveCfg = Release|Win32
+		{EE96A565-2317-4002-9523-BC9784439320}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
